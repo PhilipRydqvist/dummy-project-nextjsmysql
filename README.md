@@ -1,0 +1,2 @@
+# dummy-project-nextjsmysql
+start
